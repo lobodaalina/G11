@@ -7,7 +7,7 @@ def func(cnt):
     for i in string:
         if i == a:
             cnt = cnt + 1
-    print("В строке буква 'а' встречается", cnt, "раз")
+    print("В строке буква", a, "встречается", cnt, "раз")
 
 
 func(cnt)
