@@ -2,6 +2,7 @@ a = int(input("Enter number:"))
 b = int(input("Enter number:"))
 
 
+
 def myfunc(a, b):
     if a > b:
         print("Все будет хорошо")
